@@ -1,1 +1,1 @@
-# ucimo-php
+# Učimo PHP
